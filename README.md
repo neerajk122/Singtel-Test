@@ -1,7 +1,4 @@
-# Singtel-Code-Assignment
-# Project Title
-
-Singtel-Test
+# Singtel-Test
 
 # Prerequisites
 JAVA JRE/JDK and Eclipse IDE 
